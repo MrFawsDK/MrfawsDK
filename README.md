@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrfawsDK
-- 👀 I’m interested in Coding and the thinhs behind
+- 👀 I’m interested in Coding and the things behind
 - 🌱 I’m currently learning Java
 
 <!---
