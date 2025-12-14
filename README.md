@@ -49,7 +49,8 @@ I work on everything from game servers and custom scripts to web platforms, auto
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrFaws&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFaws&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=MrFaws&theme=tokyonight)
+" height="180"/>
 </p>
 
 ---
