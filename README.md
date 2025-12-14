@@ -50,7 +50,14 @@ I work on everything from game servers and custom scripts to web platforms, auto
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrFaws&show_icons=true&theme=tokyonight" height="180" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img src="https://streak-stats.demolab.com?user=MrFaws&theme=tokyonight" height="180" />
+
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
+
 </p>
 
 ---
