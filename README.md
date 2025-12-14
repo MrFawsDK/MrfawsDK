@@ -48,11 +48,10 @@ I work on everything from game servers and custom scripts to web platforms, auto
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrFaws&show_icons=true&theme=tokyonight" height="180"/>
-" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrFaws&show_icons=true&theme=tokyonight" height="180" />
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://streak-stats.demolab.com?user=MrFaws&theme=tokyonight" height="180" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=MrFaws&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrFaws&theme=tokyo-night)
 
 ---
 
