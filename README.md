@@ -1,8 +1,70 @@
-- 👋 Hi, I’m @MrfawsDK
-- 👀 I’m interested in Coding and the things behind
-- 🌱 I’m currently learning Java
+# 👋 Hi, I'm MrFaws
 
-<!---
-MrfawsDK/MrfawsDK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a developer, creator and builder with a passion for **FiveM development**, **backend systems**, and **clean, modern design**.
+
+I work on everything from game servers and custom scripts to web platforms, automation tools and creative projects.
+
+---
+
+## 🧠 About Me
+
+- 💻 FiveM Developer (ESX, ox_lib, custom resources)
+- 🌐 Web & Backend (Node.js, JavaScript, MySQL)
+- 🎮 Server Owner & Community Builder
+- 🎨 Branding, UI & UX focused
+- 🚀 Always learning, always building
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Lua
+- JavaScript
+- HTML / CSS
+- SQL
+
+**Frameworks & Tools**
+- FiveM / Cfx.re
+- ESX Legacy
+- ox_lib / ox_inventory
+- Node.js
+- MySQL
+- Git & GitHub
+- Linux / Windows Server
+
+---
+
+## 📌 Projects & Interests
+
+- Custom FiveM resources
+- Police / MDT systems
+- UI-focused scripts & dashboards
+- Automation & tooling
+- Branding & digital identity
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrFaws&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFaws&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- Discord: **MrFaws**
+- GitHub: **@MrFaws**
+
+---
+
+## ⚡ Motto
+
+> *Build with purpose. Create with passion.*
+
+---
+
+⭐ Feel free to explore my repositories and projects.
