@@ -16,9 +16,18 @@ Currently building APIs, developer tools and FiveM projects.
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrFawsDK&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFawsDK&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrFawsDK&theme=github_dark"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrFawsDK&theme=github_dark"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 ---
